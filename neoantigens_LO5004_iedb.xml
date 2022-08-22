@@ -1,0 +1,2051 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.30+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Users/mluksza/Dropbox/CancerLocal//enemy/iedb_2017_new//iedb.fasta</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>LO5004|WT|1941|1_45125913_A_G_LO5004</BlastOutput_query-def>
+  <BlastOutput_query-len>9</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>100000000</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1941|1_45125913_A_G_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_2</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1941|1_45125913_A_G_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_3</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1942|1_45125913_A_G_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_4</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1942|1_45125913_A_G_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_5</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1943|1_144852477_G_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|314</Hit_id>
+  <Hit_def>20417|HCV-1|AAA45676.1|Hepatitis C virus genotype 1|41856</Hit_def>
+  <Hit_accession>314</Hit_accession>
+  <Hit_len>20</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.6974</Hsp_bit-score>
+      <Hsp_score>21</Hsp_score>
+      <Hsp_evalue>28.2867</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>9</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>17</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>LPCTPAL</Hsp_qseq>
+      <Hsp_hseq>LPGNPAI</Hsp_hseq>
+      <Hsp_midline>LP  PA+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|58</Hit_id>
+  <Hit_def>4172|Glycoprotein I precursor (Glycoprotein IV) (GI) (GPIV)|P09258.1|Human alphaherpesvirus 3|10335</Hit_def>
+  <Hit_accession>58</Hit_accession>
+  <Hit_len>11</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>11.927</Hsp_bit-score>
+      <Hsp_score>19</Hsp_score>
+      <Hsp_evalue>95.5114</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>7</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>10</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>5</Hsp_align-len>
+      <Hsp_qseq>LPCTP</Hsp_qseq>
+      <Hsp_hseq>LPATP</Hsp_hseq>
+      <Hsp_midline>LP TP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1431</Hit_id>
+  <Hit_def>110917|X protein|AAP06597.1|Hepatitis B virus|10407</Hit_def>
+  <Hit_accession>1431</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>11.927</Hsp_bit-score>
+      <Hsp_score>19</Hsp_score>
+      <Hsp_evalue>116.827</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>LPCTPA</Hsp_qseq>
+      <Hsp_hseq>LVCSPA</Hsp_hseq>
+      <Hsp_midline>L C+PA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_6</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1943|1_144852477_G_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1431</Hit_id>
+  <Hit_def>110917|X protein|AAP06597.1|Hepatitis B virus|10407</Hit_def>
+  <Hit_accession>1431</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>13.4678</Hsp_bit-score>
+      <Hsp_score>23</Hsp_score>
+      <Hsp_evalue>9.46684</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>6</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>LLCTPA</Hsp_qseq>
+      <Hsp_hseq>LVCSPA</Hsp_hseq>
+      <Hsp_midline>L+C+PA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_7</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1944|1_144852477_G_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|314</Hit_id>
+  <Hit_def>20417|HCV-1|AAA45676.1|Hepatitis C virus genotype 1|41856</Hit_def>
+  <Hit_accession>314</Hit_accession>
+  <Hit_len>20</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.6974</Hsp_bit-score>
+      <Hsp_score>21</Hsp_score>
+      <Hsp_evalue>28.2867</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>9</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>17</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>LPCTPAL</Hsp_qseq>
+      <Hsp_hseq>LPGNPAI</Hsp_hseq>
+      <Hsp_midline>LP  PA+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|58</Hit_id>
+  <Hit_def>4172|Glycoprotein I precursor (Glycoprotein IV) (GI) (GPIV)|P09258.1|Human alphaherpesvirus 3|10335</Hit_def>
+  <Hit_accession>58</Hit_accession>
+  <Hit_len>11</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>11.927</Hsp_bit-score>
+      <Hsp_score>19</Hsp_score>
+      <Hsp_evalue>95.5114</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>7</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>10</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>5</Hsp_align-len>
+      <Hsp_qseq>LPCTP</Hsp_qseq>
+      <Hsp_hseq>LPATP</Hsp_hseq>
+      <Hsp_midline>LP TP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1431</Hit_id>
+  <Hit_def>110917|X protein|AAP06597.1|Hepatitis B virus|10407</Hit_def>
+  <Hit_accession>1431</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>11.927</Hsp_bit-score>
+      <Hsp_score>19</Hsp_score>
+      <Hsp_evalue>116.827</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>LPCTPA</Hsp_qseq>
+      <Hsp_hseq>LVCSPA</Hsp_hseq>
+      <Hsp_midline>L C+PA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_8</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1944|1_144852477_G_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1431</Hit_id>
+  <Hit_def>110917|X protein|AAP06597.1|Hepatitis B virus|10407</Hit_def>
+  <Hit_accession>1431</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>13.4678</Hsp_bit-score>
+      <Hsp_score>23</Hsp_score>
+      <Hsp_evalue>9.46684</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>6</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>LLCTPA</Hsp_qseq>
+      <Hsp_hseq>LVCSPA</Hsp_hseq>
+      <Hsp_midline>L+C+PA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_9</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1945|1_202718159_C_G_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_10</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1945|1_202718159_C_G_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_11</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1946|10_5948524_C_T_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|459</Hit_id>
+  <Hit_def>27245|Hemagglutinin glycoprotein|P08362.1|Measles virus strain Edmonston|11235</Hit_def>
+  <Hit_accession>459</Hit_accession>
+  <Hit_len>10</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>53.7874</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>9</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>FLPVEDL</Hsp_qseq>
+      <Hsp_hseq>ILPGQDL</Hsp_hseq>
+      <Hsp_midline> LP +DL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|2535</Hit_id>
+  <Hit_def>580298|capsid protein|ADV92629.1|Hepatitis E virus|12461</Hit_def>
+  <Hit_accession>2535</Hit_accession>
+  <Hit_len>15</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>63.5221</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>6</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>8</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>FAFLPV</Hsp_qseq>
+      <Hsp_hseq>FVFLPM</Hsp_hseq>
+      <Hsp_midline>F FLP+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>12</Iteration_iter-num>
+  <Iteration_query-ID>Query_12</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1946|10_5948524_C_T_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>13</Iteration_iter-num>
+  <Iteration_query-ID>Query_13</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1947|10_5948524_C_T_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|459</Hit_id>
+  <Hit_def>27245|Hemagglutinin glycoprotein|P08362.1|Measles virus strain Edmonston|11235</Hit_def>
+  <Hit_accession>459</Hit_accession>
+  <Hit_len>10</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>53.7874</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>9</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>FLPVEDL</Hsp_qseq>
+      <Hsp_hseq>ILPGQDL</Hsp_hseq>
+      <Hsp_midline> LP +DL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|2535</Hit_id>
+  <Hit_def>580298|capsid protein|ADV92629.1|Hepatitis E virus|12461</Hit_def>
+  <Hit_accession>2535</Hit_accession>
+  <Hit_len>15</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>63.5221</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>6</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>8</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>FAFLPV</Hsp_qseq>
+      <Hsp_hseq>FVFLPM</Hsp_hseq>
+      <Hsp_midline>F FLP+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>14</Iteration_iter-num>
+  <Iteration_query-ID>Query_14</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1947|10_5948524_C_T_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>15</Iteration_iter-num>
+  <Iteration_query-ID>Query_15</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1948|11_4843274_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>16</Iteration_iter-num>
+  <Iteration_query-ID>Query_16</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1948|11_4843274_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>17</Iteration_iter-num>
+  <Iteration_query-ID>Query_17</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1949|11_4843274_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>18</Iteration_iter-num>
+  <Iteration_query-ID>Query_18</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1949|11_4843274_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>19</Iteration_iter-num>
+  <Iteration_query-ID>Query_19</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1950|11_4843274_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>20</Iteration_iter-num>
+  <Iteration_query-ID>Query_20</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1950|11_4843274_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>21</Iteration_iter-num>
+  <Iteration_query-ID>Query_21</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1951|12_25398285_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>22</Iteration_iter-num>
+  <Iteration_query-ID>Query_22</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1951|12_25398285_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>23</Iteration_iter-num>
+  <Iteration_query-ID>Query_23</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1952|12_50388220_T_C_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>24</Iteration_iter-num>
+  <Iteration_query-ID>Query_24</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1952|12_50388220_T_C_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>25</Iteration_iter-num>
+  <Iteration_query-ID>Query_25</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1953|12_50388220_T_C_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>26</Iteration_iter-num>
+  <Iteration_query-ID>Query_26</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1953|12_50388220_T_C_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>27</Iteration_iter-num>
+  <Iteration_query-ID>Query_27</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1954|15_74588221_G_T_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>28</Iteration_iter-num>
+  <Iteration_query-ID>Query_28</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1954|15_74588221_G_T_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>29</Iteration_iter-num>
+  <Iteration_query-ID>Query_29</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1955|19_54745646_A_T_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>30</Iteration_iter-num>
+  <Iteration_query-ID>Query_30</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1955|19_54745646_A_T_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>31</Iteration_iter-num>
+  <Iteration_query-ID>Query_31</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1956|2_202122989_A_G_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>32</Iteration_iter-num>
+  <Iteration_query-ID>Query_32</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1956|2_202122989_A_G_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>33</Iteration_iter-num>
+  <Iteration_query-ID>Query_33</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1957|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1984</Hit_id>
+  <Hit_def>181035||||</Hit_def>
+  <Hit_accession>1984</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.6974</Hsp_bit-score>
+      <Hsp_score>21</Hsp_score>
+      <Hsp_evalue>28.9907</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>25</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>ICALVFL</Hsp_qseq>
+      <Hsp_hseq>ICGGVYL</Hsp_hseq>
+      <Hsp_midline>IC  V+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>34</Iteration_iter-num>
+  <Iteration_query-ID>Query_34</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1957|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1984</Hit_id>
+  <Hit_def>181035||||</Hit_def>
+  <Hit_accession>1984</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>13.0826</Hsp_bit-score>
+      <Hsp_score>22</Hsp_score>
+      <Hsp_evalue>22.123</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>25</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>ICAFVFL</Hsp_qseq>
+      <Hsp_hseq>ICGGVYL</Hsp_hseq>
+      <Hsp_midline>IC  V+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|699</Hit_id>
+  <Hit_def>41622|Genome polyprotein|P08617.1|Human hepatitis A virus Hu/Australia/HM175/1976|12098</Hit_def>
+  <Hit_accession>699</Hit_accession>
+  <Hit_len>20</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.6974</Hsp_bit-score>
+      <Hsp_score>21</Hsp_score>
+      <Hsp_evalue>28.2867</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>7</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>12</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>3</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>ICAFVF</Hsp_qseq>
+      <Hsp_hseq>LCTFTF</Hsp_hseq>
+      <Hsp_midline>+C F F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|398</Hit_id>
+  <Hit_def>23797|Genome polyprotein|P08617.1|Human hepatitis A virus Hu/Australia/HM175/1976|12098</Hit_def>
+  <Hit_accession>398</Hit_accession>
+  <Hit_len>20</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>41.7343</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>7</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>8</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>3</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>ICAFVF</Hsp_qseq>
+      <Hsp_hseq>LCTFTF</Hsp_hseq>
+      <Hsp_midline>+C F F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|127</Hit_id>
+  <Hit_def>8554|Genome polyprotein|P08617.1|Human hepatitis A virus Hu/Australia/HM175/1976|12098</Hit_def>
+  <Hit_accession>127</Hit_accession>
+  <Hit_len>20</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>54.9229</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>7</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>20</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>3</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>ICAFVF</Hsp_qseq>
+      <Hsp_hseq>LCTFTF</Hsp_hseq>
+      <Hsp_midline>+C F F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>35</Iteration_iter-num>
+  <Iteration_query-ID>Query_35</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1958|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>36</Iteration_iter-num>
+  <Iteration_query-ID>Query_36</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1958|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>37</Iteration_iter-num>
+  <Iteration_query-ID>Query_37</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1959|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1984</Hit_id>
+  <Hit_def>181035||||</Hit_def>
+  <Hit_accession>1984</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.6974</Hsp_bit-score>
+      <Hsp_score>21</Hsp_score>
+      <Hsp_evalue>26.0219</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>9</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>25</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>ICALVFL</Hsp_qseq>
+      <Hsp_hseq>ICGGVYL</Hsp_hseq>
+      <Hsp_midline>IC  V+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>38</Iteration_iter-num>
+  <Iteration_query-ID>Query_38</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1959|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1984</Hit_id>
+  <Hit_def>181035||||</Hit_def>
+  <Hit_accession>1984</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>13.0826</Hsp_bit-score>
+      <Hsp_score>22</Hsp_score>
+      <Hsp_evalue>19.5834</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>9</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>25</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>ICAFVFL</Hsp_qseq>
+      <Hsp_hseq>ICGGVYL</Hsp_hseq>
+      <Hsp_midline>IC  V+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|699</Hit_id>
+  <Hit_def>41622|Genome polyprotein|P08617.1|Human hepatitis A virus Hu/Australia/HM175/1976|12098</Hit_def>
+  <Hit_accession>699</Hit_accession>
+  <Hit_len>20</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>48.6399</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>12</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>3</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>ICAFVF</Hsp_qseq>
+      <Hsp_hseq>LCTFTF</Hsp_hseq>
+      <Hsp_midline>+C F F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|398</Hit_id>
+  <Hit_def>23797|Genome polyprotein|P08617.1|Human hepatitis A virus Hu/Australia/HM175/1976|12098</Hit_def>
+  <Hit_accession>398</Hit_accession>
+  <Hit_len>20</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>11.927</Hsp_bit-score>
+      <Hsp_score>19</Hsp_score>
+      <Hsp_evalue>68.8064</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>8</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>3</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>ICAFVF</Hsp_qseq>
+      <Hsp_hseq>LCTFTF</Hsp_hseq>
+      <Hsp_midline>+C F F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|127</Hit_id>
+  <Hit_def>8554|Genome polyprotein|P08617.1|Human hepatitis A virus Hu/Australia/HM175/1976|12098</Hit_def>
+  <Hit_accession>127</Hit_accession>
+  <Hit_len>20</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>11.927</Hsp_bit-score>
+      <Hsp_score>19</Hsp_score>
+      <Hsp_evalue>88.4921</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>20</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>3</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>ICAFVF</Hsp_qseq>
+      <Hsp_hseq>LCTFTF</Hsp_hseq>
+      <Hsp_midline>+C F F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>39</Iteration_iter-num>
+  <Iteration_query-ID>Query_39</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1960|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>40</Iteration_iter-num>
+  <Iteration_query-ID>Query_40</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1960|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>41</Iteration_iter-num>
+  <Iteration_query-ID>Query_41</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1961|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>42</Iteration_iter-num>
+  <Iteration_query-ID>Query_42</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1961|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>43</Iteration_iter-num>
+  <Iteration_query-ID>Query_43</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1962|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>44</Iteration_iter-num>
+  <Iteration_query-ID>Query_44</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1962|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>45</Iteration_iter-num>
+  <Iteration_query-ID>Query_45</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1963|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>46</Iteration_iter-num>
+  <Iteration_query-ID>Query_46</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1963|20_36147433_C_A_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>47</Iteration_iter-num>
+  <Iteration_query-ID>Query_47</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1964|4_85654578_T_C_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1430</Hit_id>
+  <Hit_def>110846|E6 protein|CAB45108.1|Human papillomavirus type 16|333760</Hit_def>
+  <Hit_accession>1430</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>69.2152</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>YNHYPY</Hsp_qseq>
+      <Hsp_hseq>YRHYCY</Hsp_hseq>
+      <Hsp_midline>Y HY Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|480</Hit_id>
+  <Hit_def>28484|Protein E6|P03126.1|Human papillomavirus type 16|333760</Hit_def>
+  <Hit_accession>480</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>70.3723</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>9</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>YNHYPY</Hsp_qseq>
+      <Hsp_hseq>YRHYCY</Hsp_hseq>
+      <Hsp_midline>Y HY Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>48</Iteration_iter-num>
+  <Iteration_query-ID>Query_48</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1964|4_85654578_T_C_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>49</Iteration_iter-num>
+  <Iteration_query-ID>Query_49</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1965|4_85654578_T_C_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1430</Hit_id>
+  <Hit_def>110846|E6 protein|CAB45108.1|Human papillomavirus type 16|333760</Hit_def>
+  <Hit_accession>1430</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>63.6963</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>9</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>YNHYPY</Hsp_qseq>
+      <Hsp_hseq>YRHYCY</Hsp_hseq>
+      <Hsp_midline>Y HY Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|480</Hit_id>
+  <Hit_def>28484|Protein E6|P03126.1|Human papillomavirus type 16|333760</Hit_def>
+  <Hit_accession>480</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>63.6963</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>9</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>9</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>YNHYPY</Hsp_qseq>
+      <Hsp_hseq>YRHYCY</Hsp_hseq>
+      <Hsp_midline>Y HY Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1813</Hit_id>
+  <Hit_def>158861|polymerase subunit L|AAB86679.1|Human orthopneumovirus|11250</Hit_def>
+  <Hit_accession>1813</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>11.5418</Hsp_bit-score>
+      <Hsp_score>18</Hsp_score>
+      <Hsp_evalue>209.918</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>7</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>9</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>DMFYNHY</Hsp_qseq>
+      <Hsp_hseq>DYFHNTY</Hsp_hseq>
+      <Hsp_midline>D F+N Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>50</Iteration_iter-num>
+  <Iteration_query-ID>Query_50</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1965|4_85654578_T_C_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1813</Hit_id>
+  <Hit_def>158861|polymerase subunit L|AAB86679.1|Human orthopneumovirus|11250</Hit_def>
+  <Hit_accession>1813</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>52.9932</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>7</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>9</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>DMFYNRY</Hsp_qseq>
+      <Hsp_hseq>DYFHNTY</Hsp_hseq>
+      <Hsp_midline>D F+N Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>51</Iteration_iter-num>
+  <Iteration_query-ID>Query_51</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1966|4_85654578_T_C_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1430</Hit_id>
+  <Hit_def>110846|E6 protein|CAB45108.1|Human papillomavirus type 16|333760</Hit_def>
+  <Hit_accession>1430</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>69.2152</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>YNHYPY</Hsp_qseq>
+      <Hsp_hseq>YRHYCY</Hsp_hseq>
+      <Hsp_midline>Y HY Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|480</Hit_id>
+  <Hit_def>28484|Protein E6|P03126.1|Human papillomavirus type 16|333760</Hit_def>
+  <Hit_accession>480</Hit_accession>
+  <Hit_len>9</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>70.3723</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>9</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>4</Hsp_identity>
+      <Hsp_positive>4</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>YNHYPY</Hsp_qseq>
+      <Hsp_hseq>YRHYCY</Hsp_hseq>
+      <Hsp_midline>Y HY Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>52</Iteration_iter-num>
+  <Iteration_query-ID>Query_52</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1966|4_85654578_T_C_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>53</Iteration_iter-num>
+  <Iteration_query-ID>Query_53</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1967|5_15928056_C_T_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1054</Hit_id>
+  <Hit_def>69404|HCMVUL83|CAA35357.1|Human betaherpesvirus 5|10359</Hit_def>
+  <Hit_accession>1054</Hit_accession>
+  <Hit_len>11</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>13.0826</Hsp_bit-score>
+      <Hsp_score>22</Hsp_score>
+      <Hsp_evalue>19.323</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>9</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>3</Hsp_identity>
+      <Hsp_positive>6</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>LICPPNL</Hsp_qseq>
+      <Hsp_hseq>VLCPKNM</Hsp_hseq>
+      <Hsp_midline>++CP N+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|2039</Hit_id>
+  <Hit_def>183741|polyprotein|AGS49173.1|Dengue virus 2|11060</Hit_def>
+  <Hit_accession>2039</Hit_accession>
+  <Hit_len>10</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.3122</Hsp_bit-score>
+      <Hsp_score>20</Hsp_score>
+      <Hsp_evalue>62.4456</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>8</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>6</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>3</Hsp_identity>
+      <Hsp_positive>5</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>6</Hsp_align-len>
+      <Hsp_qseq>LICPPN</Hsp_qseq>
+      <Hsp_hseq>ILCVPN</Hsp_hseq>
+      <Hsp_midline>++C PN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>54</Iteration_iter-num>
+  <Iteration_query-ID>Query_54</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1967|5_15928056_C_T_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1054</Hit_id>
+  <Hit_def>69404|HCMVUL83|CAA35357.1|Human betaherpesvirus 5|10359</Hit_def>
+  <Hit_accession>1054</Hit_accession>
+  <Hit_len>11</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>12.6974</Hsp_bit-score>
+      <Hsp_score>21</Hsp_score>
+      <Hsp_evalue>35.0675</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>9</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>7</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>3</Hsp_identity>
+      <Hsp_positive>6</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>7</Hsp_align-len>
+      <Hsp_qseq>LICPLNL</Hsp_qseq>
+      <Hsp_hseq>VLCPKNM</Hsp_hseq>
+      <Hsp_midline>++CP N+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>55</Iteration_iter-num>
+  <Iteration_query-ID>Query_55</Iteration_query-ID>
+  <Iteration_query-def>LO5004|WT|1968|5_169446111_A_G_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>56</Iteration_iter-num>
+  <Iteration_query-ID>Query_56</Iteration_query-ID>
+  <Iteration_query-def>LO5004|MUT|1968|5_169446111_A_G_LO5004</Iteration_query-def>
+  <Iteration_query-len>9</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>2558</Statistics_db-num>
+      <Statistics_db-len>27622</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>248598</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>No hits found</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
